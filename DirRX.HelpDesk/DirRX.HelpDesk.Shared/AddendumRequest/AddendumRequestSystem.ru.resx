@@ -126,4 +126,7 @@
   <data name="CollectionDisplayName" xml:space="preserve">
     <value>Приложения к обращению</value>
   </data>
+  <data name="Property_Employee" xml:space="preserve">
+    <value />
+  </data>
 </root>
