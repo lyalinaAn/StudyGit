@@ -79,6 +79,14 @@
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     },
     {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "be354bf7-cf53-48a6-a8e1-f27d80e90b28",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "b734281c-c3ec-45bf-83a9-e8558cfb91f7"
+    },
+    {
       "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
       "NameGuid": "03fcdacc-5a43-43f7-b351-380ad23b850e",
       "Name": "Responsible",
